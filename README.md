@@ -3,6 +3,6 @@
 
 | Область проекта | Название проекта | Описание      | Стек и методы | 
 | --------------- | ---------------- | ------------- | ------------- |
-| NLP             | *Book Recommendations from Charles Darwin (Jupyter notebook)* |               |               |
-| NLP             | *Word Frequency in Classic Novels (Jupyter notebook)* |               |               |
-| NLP             | *Finding Movie Similarities from Plot Summaries (Jupyter notebook).ipynb* |               |               |
+| NLP             | [Book Recommendations from Charles Darwin (Jupyter notebook)] |               |               |
+| NLP             | [Word Frequency in Classic Novels (Jupyter notebook)] |               |               |
+| NLP             | [Finding Movie Similarities from Plot Summaries (Jupyter notebook).ipynb] |               |               |
