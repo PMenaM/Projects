@@ -9,5 +9,5 @@
 
 
 # Ссылки на резюме
-  . [резюме](https://spb.hh.ru/resume/88b9b46cff0bfd0f880039ed1f7a7076507353)
-  . [профиль на LinkedIn](https://www.linkedin.com/in/pablomenamnlp)
+  + [резюме](https://spb.hh.ru/resume/88b9b46cff0bfd0f880039ed1f7a7076507353)
+  + [профиль на LinkedIn](https://www.linkedin.com/in/pablomenamnlp)
