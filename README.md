@@ -1,8 +1,8 @@
 # Pablo Mena's project portfolio
 List of projects completed in the field of Data Science and its various subfields.
 
-| Project field/year | Project name | Description | Contributions | Stack and methods | 
-| -------------------| -------------| ------------| ------------- | ----------------- |
+| Project field/year      | Project name     | Description           | Contributions                               | Stack and methods                   | 
+|------------------------ |----------------- |---------------------- |-------------------------------------------- |-----------------                    |
 |  |  |  |  | Предложения CASE (WHEN, THEN), Агрегатные функции (EXTRACT, SUM, ROUND), Функции фильтрации (WHERE, GROUP BY, ORDER BY) |
 | Machine Learning/2023 | [Assessing Customer Churn Using Machine Learning](https://github.com/PMenaM/Projects/blob/main/Assessing%20Customer%20Churn%20Using%20Machine%20Learning%20(Jupyter%20Notebook)/Assessing%20Customer%20Churn%20Using%20Machine%20Learning%20(Jupyter%20Notebook).ipynb) | Использование Pandas и машинного обучения для изучения наборов данных ведущих индийских телекоммуникационных компаний, выявления демографических моделей и моделей использования. Прогнозирование удержания клиентов, объединение анализа данных и прогнозного моделирования. |  | Pandas, Sklearn, машинное обучение, анализ данных, предварительная обработка, создание экземпляров, StandardScaler, обучение, подгонка, train_test_split, проверка, прогнозирование, LogisticRegression, RandomForestClassifier, оценка, classification_report, confusion_matrix |
 | AI - Prompt Engineering/2023 | [OpenAI API for Tourism](https://github.com/PMenaM/Projects/blob/main/OpenAI%20API%20for%20Tourism%20(Jupyter%20Notebook)/Planning%20a%20Trip%20to%20Paris%20with%20the%20OpenAI%20API.ipynb) | Использование возможностей языковой обработки OpenAI для интеллектуального ответа на заранее заданные вопросы, связанные с поездками, и предоставления индивидуальных рекомендаций для знакомства с Парижем. |  | Искусственный Интеллект, OpenAI API, Prompt engineering, циклы for, извлечение признаков, списки словарей |
